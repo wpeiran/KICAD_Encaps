@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP W25Q64JVSSIQ
+D Winbond W25Q64JVSSIQ, Quad-SPI NOR 64Mbit Flash Memory Chip, 8-Pin SOIC
+F http://www.winbond.com/resource-files/w25q64jv%20revj%2003272018%20plus.pdf
+$ENDCMP
+#
+#End Doc Library
