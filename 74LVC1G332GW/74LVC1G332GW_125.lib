@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 74LVC1G332GW,125
+#
+DEF 74LVC1G332GW,125 IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "74LVC1G332GW,125" 100 -550 50 H V L CNN
+F2 "74LVC1G332GW:SOP65P210X110-6N" 100 -650 50 H I L CNN
+F3 "" 100 -750 50 H I L CNN
+F4 "74LVC1G332 - Single 3-input OR gate@en-us" 100 -850 50 H I L CNN "Description"
+F5 "1.1" 950 -450 50 H I L CNN "Height"
+F6 "Nexperia" 950 -550 50 H I L CNN "Manufacturer_Name"
+F7 "74LVC1G332GW,125" 100 -1150 50 H I L CNN "Manufacturer_Part_Number"
+F8 "771-LVC1G332GW125" 100 -1250 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC1G332GW125?qs=me8TqzrmIYVkyka3jewW%252Bw%3D%3D" 100 -1350 50 H I L CNN "Mouser Price/Stock"
+F10 "74LVC1G332GW,125" 100 -1450 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/74lvc1g332gw125/nexperia" 100 -1550 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+X A 1 0 50 200 R 50 50 0 0 I
+X GND 2 1000 -250 200 L 50 50 0 0 W
+X B 3 0 -100 200 R 50 50 0 0 I
+X Y 4 1000 -100 200 L 50 50 0 0 O
+X VCC 5 1000 50 200 L 50 50 0 0 W
+X C 6 0 -250 200 R 50 50 0 0 I
+ENDDRAW
+ENDDEF
+#
+#End Library
