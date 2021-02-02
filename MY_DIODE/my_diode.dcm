@@ -66,6 +66,12 @@ K linear regulator ldo fixed positive obsolete
 F http://www.diodes.com/datasheets/AP1117.pdf
 $ENDCMP
 #
+$CMP Battery_Cell
+D Single-cell battery
+K battery cell
+F ~
+$ENDCMP
+#
 $CMP LD1117S12TR_SOT223
 D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 1.2V, SOT-223
 K REGULATOR LDO 1.2V
