@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLP187
+D Toshiba TLP187 DC Input Darlington Output Optocoupler, Surface Mount, 4-Pin SOIC
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=13690&prodName=TLP187
+$ENDCMP
+#
+#End Doc Library

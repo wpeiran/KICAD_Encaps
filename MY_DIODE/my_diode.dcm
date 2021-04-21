@@ -156,4 +156,16 @@ K REGULATOR LDO 5V
 F http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF
 $ENDCMP
 #
+$CMP TLP185xSE
+D DC Optocoupler, Vce 80V, CTR 50-100%, MFSOP6
+K NPN DC Optocoupler
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=14111&prodName=TLP185(SE
+$ENDCMP
+#
+$CMP TLP187
+D DC Optocoupler, Vce 80V, CTR 50-100%, MFSOP6
+K NPN DC Optocoupler
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=11791&prodName=TLP185
+$ENDCMP
+#
 #End Doc Library
