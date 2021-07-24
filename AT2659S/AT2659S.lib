@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# AT2659S
+#
+DEF AT2659S IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "AT2659S" 1050 200 50 H V L CNN
+F2 "AT2659S:SOT95P280X125-6N" 0 -550 50 H I L CNN
+F3 "" 0 -650 50 H I L CNN
+F4 "L1 band satellite navigation RF front-end low noise amplifier chip" 0 -750 50 H I L CNN "Description"
+F5 "1.25" 650 -400 50 H I L CNN "Height"
+F6 "Hangzhou Zhongke Microelectronics Co., Ltd." 0 -950 50 H I L CNN "Manufacturer_Name"
+F7 "AT2659S" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+X GND_2 1 0 -200 200 R 50 50 0 0 P
+X GND_1 2 0 -100 200 R 50 50 0 0 P
+X RFIN 3 0 0 200 R 50 50 0 0 P
+X VDD 4 1200 -200 200 L 50 50 0 0 P
+X ~SHDN 5 1200 -100 200 L 50 50 0 0 P
+X RFOUT 6 1200 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
